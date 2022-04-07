@@ -1,0 +1,107 @@
+ body{
+     background-color: rgb(0, 0, 0);
+ }
+ 
+    h2{
+        background-color: rgb(38, 1, 1);
+        font-size: 80px;
+        color: white;
+        height: 7vh;
+    }
+    nav{
+        position: sticky;
+        top: 20vh 
+   
+
+        
+    }
+    #header-img{
+        width: 100vw;
+        height: 35vh;
+        position: relative;
+        margin-top: -10px;
+    }
+
+    
+    li{
+        background-color: rgb(40, 3, 3);
+        width: 20%;
+        height: 10vh;
+        text-align: center;
+        color: rgb(138, 131, 131);
+        background-color: ;
+    }
+    button{
+        width: 100%;
+        background-color: rgb(40, 5, 5);
+        color: rgb(238, 210, 210);
+        border: 0cm;
+        height: 10vh;   
+        justify-content: center;
+        align-items: center;
+    }
+        
+        button:hover{
+            background-color: black;
+        }
+    
+    a {
+        color: white;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    #action:hover{
+        background-image: url(img/gun\ \(1\).jpg);
+        background-size: 21vw 12vh;
+        color: white;
+        
+    }
+    #horror:hover{
+        background-image: url(img/TO\ POST\ OCT\ 31\ EHM\ horror\ image.jpg);
+        background-size: 100%;
+        color: black;
+        
+    }
+    #anime:hover{
+        background-image: url(img/1fTa.gif);
+        background-size:20vw 10vh ;
+        color: red;
+        
+      
+    }
+    #comedy:hover{
+        background-image: url(img/mr\ bean.jpg);
+        background-size:20vw 10vh ;
+        color: black;
+      
+    }
+
+    #batman-image{
+        width: 12vw;
+        hight: 15vh
+    }
+    h4{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: px;
+    }
+    
+    
+    .jumbotron{
+        background-color: rgb(15, 3, 3) !important;
+    }
+    #romance:hover{
+        background-image: url(img/romantic.jpg);
+        background-size: 20vw 10vh;
+    }
+    #the-moon-knight{
+        background-color: rgb(230, 227, 224) !important;
+        margin: -10px;
+        
+    }
+    #the-lost-city{
+        background-color: rgb(190, 51, 49) !important;
+        
+    }
+        
+     
